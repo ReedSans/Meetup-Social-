@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if(tweetInput.value){   
             const newTweetObj = {
                 handle: `@ReedSans 💎`,
-                profilePic: `/you-got-this.jpg`,
+                profilePic: `/images/you-got-this.jpg`,
                 likes: 0,
                 retweets: 0,
                 tweetText: tweetInput.value,
