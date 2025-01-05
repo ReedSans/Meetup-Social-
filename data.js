@@ -1,7 +1,7 @@
 export const tweetsData = [   
     {
         handle: `@GetSpammed607552 💎`,
-        profilePic: `/images/troll.jpg`,
+        profilePic: `/troll.jpg`,
         likes: 27,
         retweets: 10,
         tweetText: `Invest in Crypto Make 💰💰💰 low low prices. 
@@ -13,19 +13,19 @@ export const tweetsData = [
     },    
     {
         handle: `@Elon ✅`,
-        profilePic: `/images/musk.png`,
+        profilePic: `/musk.png`,
         likes: 4761,
         retweets: 434,
         tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
         replies: [
                   {
                 handle: `@TomCruise ✅`,
-                profilePic: `/images/tcruise.png`,
+                profilePic: `/tcruise.png`,
                 tweetText: `Yes! Sign me up! 😎🛩`,
             },
                   {
                 handle: `@ChuckNorr ✅`,
-                profilePic: `/images/chucknorris.jpeg`,
+                profilePic: `/chucknorris.jpeg`,
                 tweetText: `I went last year😴`,
             },
         ],
@@ -35,19 +35,19 @@ export const tweetsData = [
     },
         {
         handle: `@HelloWorlder19`,
-        profilePic: `/images/flower.png`,
+        profilePic: `/flower.png`,
         likes: 7,
         retweets: 3,
         tweetText: `Can I be a coder without a computer?`,
         replies: [
             {
                 handle: `@ChatGPTuser ☣️`,
-                profilePic: `/images/overflow.png`,
+                profilePic: `/overflow.png`,
                 tweetText: `No. Of course not. Give up and find another career.`,
             },
             {
                 handle: `@Love&Light`,
-                profilePic: `/images/love.png`,
+                profilePic: `/love.png`,
                 tweetText: `You're wonderful just as you are! ❤️`,
             },
         ],
